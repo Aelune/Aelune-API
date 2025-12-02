@@ -1,0 +1,18 @@
+{
+  "name": "aelune-api-examples",
+  "version": "1.0.0",
+  "description": "Example code for using the Aelune API",
+  "main": "full-example.js",
+  "scripts": {
+    "example": "node full-example.js"
+  },
+  "keywords": [
+    "aelune",
+    "ascii",
+    "art",
+    "ai",
+    "image-generation"
+  ],
+  "author": "Aelune",
+  "license": "MIT"
+}
